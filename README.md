@@ -23,3 +23,20 @@ html-classes/ → HTML classes and basic structure
 css-colors/ → Working with colors in CSS
 css-properties/ → Common CSS properties and layout basics
 css-add-ons/ → Extra CSS concepts and styling techniques
+
+---
+
+## 🎯 Goal
+
+The goal of this repository is to:
+
+- Practice core HTML and CSS concepts
+- Build clean, readable code
+- Develop habits of professional project organization
+
+---
+
+## 🚀 About Me
+
+I am a beginner developer currently learning web development fundamentals.  
+This repository is part of my journey into software development and continuous learning.
