@@ -1,0 +1,52 @@
+body {
+  background: #f6f2fe;
+}
+
+h1 {
+  color: purple;
+  font-size: 48px;
+  text-decoration: underline;
+  font-weight: 100;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  padding: 20px;
+  color: #7c52ef;
+  display: block;
+  margin: 0 auto;
+  font-size: 16px;
+  background: transparent;
+  transition: all 150ms ease-in-out;
+}
+
+button:hover {
+  color: #fff;
+  background-color: #7c52ef;
+  cursor: pointer;
+}
+
+.profession {
+  color: blue;
+}
+
+.course {
+  color: red;
+}
+
+.story {
+  color: green;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+}
