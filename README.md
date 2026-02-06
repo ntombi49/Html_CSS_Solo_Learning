@@ -1,38 +1,64 @@
-# Html_CSS_Solo_Learning
+# HTML & CSS Learning Journey (SheCodes)
 
-# HTML & CSS Fundamentals
-
-This repository contains my learning and practice work for **HTML and CSS fundamentals**.  
-It documents my progress as I build a strong foundation in front-end web development.
+This repository documents my learning journey in **HTML and CSS** through the **SheCodes** program.  
+It serves as proof of practice, progress tracking, and a reference for concepts I’ve learned and applied.
 
 ---
 
-## 📌 What I’m Learning
+## 📌 Purpose of This Repository
+- Track my progress while learning front-end development
+- Store lesson exercises and practice files
+- Demonstrate understanding of HTML and CSS fundamentals
+- Build a solid foundation for future JavaScript and front-end projects
 
+---
+
+## 🛠️ Technologies Learned
+- HTML5 (structure, semantic elements)
+- CSS3 (styling, layout, colors, fonts)
+- Basic responsiveness
+- Hover effects and transitions
+
+---
+
+## 📂 Repository Structure
+The repository contains individual lesson files and practice exercises created during my learning process.
+
+Each file focuses on a specific concept, such as:
 - HTML structure and elements
-- HTML classes and attributes
 - CSS colors and styling
-- CSS properties
-- Additional CSS concepts and enhancements
+- Classes and selectors
+- Layout and spacing
+- Hover effects and transitions
 
 ---
 
-## 📂 Project Structure
-
-html-classes/ → HTML classes and basic structure
-css-colors/ → Working with colors in CSS
-css-properties/ → Common CSS properties and layout basics
-css-add-ons/ → Extra CSS concepts and styling techniques
+## 🚀 What I Can Do Now
+- Build structured web pages using HTML
+- Style pages using CSS
+- Create clean and readable layouts
+- Apply hover effects and basic animations
+- Organize files in a professional way
 
 ---
 
-## 🎯 Goal
+## 🌱 Next Steps
+- Start learning **JavaScript**
+- Build interactive web applications
+- Improve responsiveness and layouts
+- Create a personal portfolio website
 
-The goal of this repository is to:
+---
 
-- Practice core HTML and CSS concepts
-- Build clean, readable code
-- Develop habits of professional project organization
+## 🙌 Acknowledgements
+This learning journey was completed through the **SheCodes** program.
+
+---
+
+## 📬 Author
+**Ntombi Rikhotso**  
+Aspiring Front-End Developer  
+
 
 ---
 
