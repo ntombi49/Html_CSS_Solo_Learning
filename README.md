@@ -57,7 +57,7 @@ This learning journey was completed through the **SheCodes** program.
 
 ## 📬 Author
 **Ntombi Rikhotso**  
-Aspiring Front-End Developer  
+Aspiring Front-End / Full-Stack Developer  
 
 
 ---
